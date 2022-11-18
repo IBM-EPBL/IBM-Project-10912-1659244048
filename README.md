@@ -7,10 +7,10 @@ TECHNOLOGY : Data Analytics <br>
 TEAM ID : PNT2022TMID04331
 
 ## 👨‍👩‍👦TEAM MEMBERS
- - Hareesh Raj R(TL)
- - Arun G
- - Amal Hadeez F
- - Akshay Prabu V S
+ - Hareesh Raj R(TL) - 737819CSR049
+ - Arun G            - 737819CSR011
+ - Amal Hadeez F     - 737819CSR008
+ - Akshay Prabu V S  - 737819CSR007
 
 ## 📒PROJECT DESCRIPTION:
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare <br>
